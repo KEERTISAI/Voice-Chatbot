@@ -1,12 +1,12 @@
-# 🤖 Voice ChatBot with AI Persona
+# 🤖 Voice ChatBot with User defined Persona
 
-A Streamlit-based voice chatbot that simulates conversations with Ram, an experienced software engineer. Perfect for interview practice and learning conversational AI.
+A Streamlit-based voice chatbot that simulates conversations with predefined persona. Perfect for interview practice and learning conversational AI.
 
 
 ## 🎯 Features
 
 - **Voice Input/Output**: Speak to the bot and hear responses
-- **AI Persona**: Chat with Ram, a 3-year experienced software engineer
+- **AI Persona**: Chat with a predefined persona
 - **Interview Practice**: Pre-loaded with common interview questions
 - **Real-time Chat**: Powered by OpenAI GPT-3.5-turbo
 - **Clean UI**: Professional Streamlit interface
@@ -31,7 +31,7 @@ A Streamlit-based voice chatbot that simulates conversations with Ram, an experi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/voice-chatbot.git
+   git clone https://github.com/KEERTISAI/Voice-Chatbot
    cd voice-chatbot
    
 
@@ -41,4 +41,4 @@ pip install -r requirements.txt
 
 
 # Run the application
-bashstreamlit run app.py
+streamlit run app.py
