@@ -32,8 +32,16 @@ A Streamlit-based voice chatbot that simulates conversations with predefined per
 1. **Clone the repository**
    ```bash
    git clone https://github.com/KEERTISAI/Voice-Chatbot
-   cd voice-chatbot
-   
+
+
+2.Create and activate a virtual environment
+  On Windows:
+           python -m venv voice_env
+           voice_env\Scripts\activate
+  
+  On macOS/Linux:
+           python3 -m venv voice_env
+           source voice_env/bin/activate    
 
 # Install dependencies
 pip install -r requirements.txt
