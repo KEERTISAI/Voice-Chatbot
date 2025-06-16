@@ -25,7 +25,7 @@ A Streamlit-based voice chatbot that simulates conversations with predefined per
 
 ### Prerequisites
 - Python 3.8 or higher
-- OpenAI API key
+- OpenAI API key (You will have to enter the Openai api key in the streamlit UI)
 
 ### Installation
 
